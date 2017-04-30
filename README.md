@@ -1,2 +1,3 @@
-# lens-child
-A starter child theme for our Listable theme
+# Lens child
+
+A starter child theme for our Lens theme
